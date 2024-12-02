@@ -1,2 +1,2 @@
-# example3
+# example-3
 Introduction to Angular
